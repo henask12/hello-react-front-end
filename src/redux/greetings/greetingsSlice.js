@@ -5,7 +5,7 @@ export const fetchGreetings = createAsyncThunk(
   'greetings/fetchGreetings',
   async (thunkApi) => {
     try {
-      const response = await axios.get('http://127.0.0.1:3000/api/v2/messages/random');
+      const response = await axios.get('http://127.0.0.1:3000/greeting/random');
       return response.data;
     } catch (error) {
       return thunkApi.rejectWithValue(error.message);
