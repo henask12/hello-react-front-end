@@ -62,6 +62,11 @@ The project is built using the following technologies:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### Backend Project <a name="backend-project"></a>
+
+The backend project can be found in the following link: [Hello Rails Backend](https://github.com/henask12/hello-rails-back-end)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
